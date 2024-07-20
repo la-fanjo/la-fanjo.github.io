@@ -1,4 +1,24 @@
-baseURL = 'https://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
-theme = 'hugo-theme-console'
+baseurl = "https://la-fanjo.github.io/"
+title = "Fanjo"
+theme = "hugo-theme-console"
+languageCode = "eo"
+
+[params]
+  # Cutting off the page title to two chars for mobile (console-demo -> co)
+  titleCutting = true
+
+  # Set the animation style -- https://animate.style/
+  # To disable animations, please remove or comment animationStyle parameter
+  animateStyle = "animated zoomIn fast" 
+
+  [[params.navlinks]]
+  name = "pri/"
+  url = "pri/"
+
+  [[params.navlinks]]
+  name = "blogo/"
+  url = "blogo/"
+  
+  [[params.navlinks]]
+  name = "fotoj/"
+  url = "fotoj/"

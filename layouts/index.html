@@ -1,0 +1,42 @@
+{{ define "main" }}
+
+<h1>Pri</h1>
+
+<p>
+Saluton! Mi nomiĝas Fanjo.  <a href="pri/">(pli)</a>
+</p>
+<br/>
+
+<h1>Lastaj blogaĵoj</h1>
+
+<div class="posts-list">
+{{ with .Site.GetPage "/blogo" }}
+    {{ range first 3 (sort .Data.Pages "Date" "desc" (where .Pages ".Params.private" "!=" true))}}
+        <div class="post">
+            <p>
+                <div class="date">{{ .PublishDate.Format "2006-01-02" }}</div>
+                <h1><a href="{{ .Permalink }}" title="{{ .Title }}">{{ .Title }}</a></h1>
+                {{ .Summary }}
+            </p>
+        </div>    
+    {{ end }}
+{{ end }}
+</div>
+
+<h1>Lastaj fotoj</h1>
+
+<div class="image-grid">
+{{ with .Site.GetPage "/fotoj" }}
+    {{ range first 3 (sort .Data.Pages "Date" "desc")}}
+        <a href="{{ .Permalink }}" title="{{ .Title }}">
+        {{ $image := .Page.Resources.GetMatch .Params.image }}
+        {{ with $image }}
+            {{ $thumb := .Resize "400x" }}
+            <img src="{{ $thumb.RelPermalink }}" alt="{{ .Title }}" class="img-responsive">
+        {{end}}
+        </a>
+    {{ end }}
+{{ end }}
+</div>
+
+{{ end }}

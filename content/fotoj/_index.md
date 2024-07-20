@@ -1,0 +1,6 @@
++++
+title = "Fotoj"
+type = "gallery"
++++
+
+

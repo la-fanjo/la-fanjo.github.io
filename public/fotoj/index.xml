@@ -1,27 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Fanjo</title>
-    <link>https://la-fanjo.github.io/</link>
-    <description>Recent content on Fanjo</description>
+    <title>Fotoj on Fanjo</title>
+    <link>https://la-fanjo.github.io/fotoj/</link>
+    <description>Recent content in Fotoj on Fanjo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>eo</language>
-    <lastBuildDate>Sat, 20 Jul 2024 06:39:06 -0600</lastBuildDate>
-    <atom:link href="https://la-fanjo.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Saluton Mondo</title>
-      <link>https://la-fanjo.github.io/blogo/saluton-mondo/</link>
-      <pubDate>Sat, 20 Jul 2024 06:39:06 -0600</pubDate>
-      <guid>https://la-fanjo.github.io/blogo/saluton-mondo/</guid>
-      <description>Saluton, mondo!</description>
-    </item>
-    <item>
-      <title>Pri</title>
-      <link>https://la-fanjo.github.io/pri/</link>
-      <pubDate>Sat, 20 Jul 2024 06:37:44 -0600</pubDate>
-      <guid>https://la-fanjo.github.io/pri/</guid>
-      <description>Saluton! Mi nomiĝas Fanjo.</description>
-    </item>
+    <lastBuildDate>Sun, 09 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://la-fanjo.github.io/fotoj/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Warsaw, Poland</title>
       <link>https://la-fanjo.github.io/fotoj/warsaw-poland/</link>
