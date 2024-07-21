@@ -1,0 +1,23 @@
++++
+title = 'Esperanto kaj mi'
+date = 2024-07-13
+tags = ["Esperanto"]
++++
+
+Antaŭ kelkaj tagoj ĉe grupo de Telegramo, esperantisto demandis, kiu estus nia respondo, se iu dirus, ke Esperanto estas senutila lingvo kaj kia estas la celo lerni ĝin. Mia ulo! Necesos blogaĵo por respondi tion.
+
+Mi pensadis: *Kial ĉio devas esti utila? Ĉu amo estas utila? Ĉu ĝojo? Ĉu plezuro? Ĉu beleco? Ĉu justeco? Kio signifas “utila”? Ĉu aferoj estas utilaj nur kiam ili eventuale eligas monajn profitojn? Ĉu aferoj estas farindaj nur kiam ili estas utilaj?*
+
+Kelkaj respondis kaj esence diris, ke Esperanto ne estas senutila lingvo, ĉar oni ekkonas internaciajn amikojn kaj ties kulturojn per ĝi. Prave, mi konsentas. Mi tamen jam konis multajn eksterlandanojn danke al la angla. Mi translokiĝis al alia lando kaj tie havis kaj lokajn kaj fremdajn konatulojn danke al la angla. Mi havis longtempan koramikon, kun kiu mi parolis ekskluzive en la angla, ĉar niaj denaskaj lingvoj estis malsamaj kaj la angla estis nia sola komuna lingvo. Ĉio ĉi okazis antaŭ ol mi lernis Esperanton.
+
+Mi pensadis: *Kial do mi lernis Esperanton? Kia estis mia celo?* Verdire mi ne scias. Jes, mi sonas kiel stultulo, sed mi apenaŭ memoras, kion mi faris aŭ pensis hieraŭ. Mi neniam kapablos respondi la plej oftan demandon en Esperantujo. Mi ĉiam fuŝos Esperantajn konversaciojn. Mi ĉiam aspektos kiel stultulo. Domaĝe!
+
+Pro mia malbonega stranga memoro, mi komencis taglibri en majo 2018. Mi skribas ĉiutage 6 liniojn pri la plej rimarkindaj okazaĵoj de la tago. La unua mencio de Esperanto en mia taglibro estas el februaro 2019. Mi skribis nur, ke mi studis Esperanton kun mia nevo, sed mi ne skribis miajn kialojn aŭ kiel mi ekkonis Esperanton. Mi do jam sciis pri Esperanto en julio 2019, kiam mi loĝis en Finnlando kaj la Universala Kongreso estis okazanta tie. Mi eĉ aliĝis al WhatsApp-grupo de esperantistoj por ekscii la klaĉaĵojn kvankam mi komprenis preskaŭ nenion. Ŝajne tio ne estis sufiĉe grava al mi por skribi en mian taglibron. Mia vivo estis ja tro freneza tiam, sed mi ial preferis mencii la Tagon de Saŭno ol Esperanton. La sekva mencio de Esperanto okazis en marto 2020. De tiam mi jam plene memoras, ke mi serioze studis Esperanton. Ĝis nun estas 147 mencioj de Esperanto, esperantistoj aŭ Esperantujo en mia taglibro, sen kalkuli la nomojn de miaj karaj amikoj.
+
+En la reala vivo mi konas neniun, kiu konis Esperanton antaŭ ol mi. Mi kredas, ke plej verŝajne mi ekkonis Esperanton dum unu el miaj senfinaj kaj sencelaj interretaj serĉoj. Mi ja certas, ke mi ne havis grandiozajn idealismajn celojn kiam mi eklernis Esperanton. Mi konis nek la movadon nek la kulturon nek la homaranismon nek la lingvan justecon, ktp. Mi sciis nur, ke Esperanto estas facile lernebla artefarita lingvo. 
+
+Laŭ mia pripensado, mi faras aferon nur ĉar mi ŝatas ĝin, ĉar mi scivolas pri ĝi aŭ ĉar mi kredas je ĝi. Eĉ la anglan mi lernis pro scivolemo, sed tio estas alia rakonto. Pli malofte mi faras aferon ĉar mi estas devigita fari ĝin, ĉar ĝi estas "utila", ekzemple, labori. Do plej verŝajne mi eklernis Esperanton simple ĉar mi scivolis pri ĝi kaj daŭre lernis simple ĉar mi ŝatis ĝin. Mi restis, ĉar mi poste ekkredis je ĝi. Ĉu mi estas finvenkisto aŭ raŭmisto? Ambaŭ, sed ankaŭ tio estas alia rakonto.
+
+Esperanto donis kaj donas al mi multon. Vi eble rimarkis, ke mi renkontis konatulojn danke al la angla, sed ne amikojn. Eĉ per mia denaska lingvo estis ĉiam malfacile por mi amikiĝi. Dum mia vivo antaŭ Esperanto, mi havis kelkajn amikojn nur ĉar ili ĉeestis la samajn lernenojn, laborejojn kaj koncertejojn kiel mi. Kiam mi foriris el tiuj lokoj, mi perdis ankaŭ la amikojn. Per Esperanto mi unuafoje havas verajn amikojn. Jes, mi neniam vidis ilin per miaj okuloj mem, mi neniam tuŝis ilin, mi neniam aŭdis iliajn voĉojn en la sama ĉambro, mi neniam flaris iliajn homajn odorojn. Mi eĉ ne scias, ĉu ili fakte ekzistas. Mi tre hontis pri tio kaj kredis, ke ili ne estas miaj veraj amikoj, sed la psikologo, kiu diagnozis al mi aŭtismon, diris, ke ankaŭ mia difino de amikeco tute validas. 
+
+Danke al Esperantujo mi daŭre vivas. Danke al Esperantujo mi travivis la teruran finon de mia longtempa amrilato. Danke al Esperantujo mi konsciis, ke miaj "stultaj" frenezaj pensoj estas amuzaj kaj interesaj al la ĝustaj homoj. Danke al Esperantujo mi unuafoje taksis min bela. Danke al Esperantujo mi eksciis, ke mi estas aŭtismulo. Danke al Esperantujo mi kuraĝiĝis ŝanĝi mian fakon kaj fariĝi programisto. Danke al Esperantujo mi travivis senlaborecon. Danke al Esperanto mi estas pli tolerema, pli klera, pli memkonscia, pli pacema, pli amema, pli esperema. Danke al Esperanto mi finfine apartenas. Danke al Esperanto mi ne plu estas sola. Ĉu tio estas utila? 
