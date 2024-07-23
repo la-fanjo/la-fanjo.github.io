@@ -4,7 +4,7 @@ title = 'Pri'
 
 Saluton! Mi estas Fanjo. Mia vera nomo estas Stephanie. Mi ne ŝatas mian nomon.
 
-Mi naskiĝis en Meksiko en 1991. Mi kreskis en Meksiko. Ĉiuj miaj konataj prauloj estis meksikanoj. Laŭ genetika testo, mia DNA estas nur ĉ. 30% eŭropa.
+Mi naskiĝis en Meksiko en 1991. Mi kreskis en Meksiko. Ĉiuj miaj konataj prauloj estis meksikanoj. Laŭ genetika testo, mia DNA estas nur ĉ. 30% eŭropa. Mi estas vera amerikano, sed ne diru tion al usonanoj.
 
 Mi denaske parolas la hispanan. Mi lernis la anglan dum adoleskeco kaj Esperanton en 2020. Mi bone komprenas la brazilan portugalan. Mi studis la germanan, la finnan kaj la estonan, sed mi ne parolas ilin. 
 
