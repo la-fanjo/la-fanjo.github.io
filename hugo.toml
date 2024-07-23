@@ -16,9 +16,17 @@ languageCode = "eo"
   url = "pri/"
 
   [[params.navlinks]]
+  name = "nun/"
+  url = "nun/"
+
+  [[params.navlinks]]
   name = "blogo/"
   url = "blogo/"
   
   [[params.navlinks]]
   name = "fotoj/"
   url = "fotoj/"
+
+  [[params.navlinks]]
+  name = "MISIO_JES_25-26/"
+  url = "misio/"
