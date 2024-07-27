@@ -22,6 +22,10 @@ languageCode = "eo"
   [[params.navlinks]]
   name = "blogo/"
   url = "blogo/"
+
+  [[params.navlinks]]
+  name = "etikedoj/"
+  url = "tags/"
   
   [[params.navlinks]]
   name = "fotoj/"
