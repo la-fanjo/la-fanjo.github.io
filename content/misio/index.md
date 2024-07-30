@@ -2,6 +2,8 @@
 title = 'Misio JES 25-26'
 +++
 
+**2024-07-30** La vivo estas tro mallonga por esti malkuraĝulo. Mi vivos la jarojn prenitajn el vi por vi, kara onklino.
+
 **2024-07-25** Mia panjo baldaŭ vojaĝos al Cancún kaj ni parolis pri nia timo vojaĝi per aviadilo. Ŝi diris "sed vi jam trapasis la Atlantikon kelkfoje!". Mi respondis "jes, kaj mi iam riskos mian vivon denove".
 
 **2024-07-23** Mi diris al mia panjo, ke mi planas "ion ege frenezan" por miaj ferioj en la venonta jaro. Mi ne donis detalojn, ĉar mi ne ŝatas tro priparoli miajn planojn. Mi diris nur "mi ankoraŭ ne povas rakonti". Ŝi nun iom pretos, se mi vere vojaĝos ekster Meksiko. La afero ŝajnas iom pli reala al mi nun.
