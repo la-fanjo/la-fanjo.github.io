@@ -19,7 +19,7 @@ Mi laboras per JavaScript kaj Cypress. Mi lernas C#. Mi studas por atingi pli bo
 Mi legas:
 
 - *To Kill a Mockingbird* de Harper Lee (angle)
-- *The Good Ancestor* de Roman Krznaric (angle)
+- *In the Land of Invented Languages* de Arika Okrent (angle)
 - *A Short History of Nearly Everything* de Bill Bryson (angle)
 - *Weight Training For Dummies* (angle)
 
@@ -29,4 +29,4 @@ Kompreneble mi daŭre laboras pri la [MISIO JES 25-26](https://la-fanjo.github.i
 
 
 
-**Ĝisdatigita je la 16-a de septembro 2024 en Toluca, Meksiko.**
+**Ĝisdatigita je la 17-a de septembro 2024 en Toluca, Meksiko.**
