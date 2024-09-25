@@ -6,19 +6,17 @@ title = 'Nun'
 
 Mi lernas la francan. Mi parkerigas la 5000 plej oftajn vortojn. Mi parkerigas bazajn frazojn. Mi aŭskultas denaskajn parolantojn. 
 
-Mi partoprenas retan kurson de la meksika signolingvo.
-
-Mi partoprenas retan kurson por praktiki paroladon en Esperanto.
+Mi partoprenas retan bazan kurson de la meksika signolingvo.
 
 ## Laboro
 
-Mi laboras per JavaScript kaj Cypress. Mi lernas C#. Mi studas por atingi pli bonan rangon en decembro (kaj pli bonan salajron!)
+Mi laboras per JavaScript kaj Cypress. Mi lernas Appium kun Java. Mi studas por atingi pli bonan rangon en decembro (kaj pli bonan salajron!)
 
 ## Libroj
 
 Mi legas:
 
-- *To Kill a Mockingbird* de Harper Lee (angle)
+- *Retrato en sepia* de Isabel Allende (hispane)
 - *In the Land of Invented Languages* de Arika Okrent (angle)
 - *A Short History of Nearly Everything* de Bill Bryson (angle)
 - *Weight Training For Dummies* (angle)
@@ -29,4 +27,4 @@ Kompreneble mi daŭre laboras pri la [MISIO JES 25-26](https://la-fanjo.github.i
 
 
 
-**Ĝisdatigita je la 17-a de septembro 2024 en Toluca, Meksiko.**
+**Ĝisdatigita je la 24-a de septembro 2024 en Toluca, Meksiko.**
