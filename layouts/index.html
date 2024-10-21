@@ -23,6 +23,22 @@ Saluton! Mi estas Fanjo, ankaŭ konata kiel la Eterna Imperiestro de Esperantujo
 {{ end }}
 </div>
 
+<h1>Lastaj taglibraĵoj</h1>
+
+<div class="posts-list">
+{{ with .Site.GetPage "/taglibro" }}
+    {{ range first 3 (sort .Data.Pages "Date" "desc" (where .Pages ".Params.private" "!=" true))}}
+        <div class="post">
+            <p>
+                <div class="date">{{ .PublishDate.Format "2006-01-02" }}</div>
+                <h1><a href="{{ .Permalink }}" title="{{ .Title }}">{{ .Title }}</a></h1>
+                {{ .Summary }}
+            </p>
+        </div>    
+    {{ end }}
+{{ end }}
+</div>
+
 <h1>Lastaj fotoj</h1>
 
 <div class="image-grid">
