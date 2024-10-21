@@ -22,11 +22,11 @@ languageCode = "eo"
   [[params.navlinks]]
   name = "blogo/"
   url = "blogo/"
+
+  [[params.navlinks]]
+  name = "taglibro/"
+  url = "taglibro/"
   
   [[params.navlinks]]
   name = "fotoj/"
   url = "fotoj/"
-
-  [[params.navlinks]]
-  name = "MISIO_JES/"
-  url = "misio/"
