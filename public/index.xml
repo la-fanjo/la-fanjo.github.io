@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My New Hugo Site</title>
+    <title>Blogo de Fanjo</title>
     <link>http://localhost:1313/</link>
-    <description>Recent content on My New Hugo Site</description>
+    <description>Recent content on Blogo de Fanjo</description>
     <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate></lastBuildDate>
+    <language>eo</language>
+    <lastBuildDate>Sun, 15 Dec 2024 20:05:40 -0600</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Saluton, mondo</title>
+      <link>http://localhost:1313/posts/unua/</link>
+      <pubDate>Sun, 15 Dec 2024 20:05:40 -0600</pubDate>
+      <guid>http://localhost:1313/posts/unua/</guid>
+      <description>&lt;p&gt;Saluton, mondo! :)&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>

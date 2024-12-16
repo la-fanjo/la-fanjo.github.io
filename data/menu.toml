@@ -1,0 +1,24 @@
+[[entries]]
+title = "pri"
+
+  [[entries.entries]]
+  title = "naskita en 1991, meksika, eletronika inĝeniero, memlernita programisto, esperantistiĝis en 2020, aŭtisma, feministo, ateisto, leganto, dancanto, vojaĝanto, belpugulino"
+
+  [[entries.entries]]
+  title = "ligiloj"
+  url = "https://fanjo.link"
+
+
+[[entries]]
+title = "blogaĵoj"
+
+  [entries.post_list]
+  limit = 5
+  show_more = true
+  show_more_text = "vidi ĉiujn..."
+  show_more_url = "posts"
+
+
+[[entries]]
+title = "rss"
+url = "index.xml"
